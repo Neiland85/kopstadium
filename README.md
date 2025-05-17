@@ -129,8 +129,7 @@ Pull request guidelines
 
 Code review checklist
 
-📄 License
-This project is licensed under the MIT License. See LICENSE for details.
-                                Apache License
+📄 License 2025 Neil Muñoz Lago aka Neiland85
+This project is licensed under Apache 2.0 License. See LICENSE for details.
                            Version 2.0, January 2004
                         http://www.apache.org/licenses/

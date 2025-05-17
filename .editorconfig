@@ -1,0 +1,20 @@
+# EditorConfig ayuda a definir estilos consistentes para varios editores e IDEs
+root = true
+
+# Todos los archivos
+[*]
+charset = utf-8
+end_of_line = lf
+insert_final_newline = true
+trim_trailing_whitespace = true
+
+# Indentación para archivos de código
+[*.{js,ts,jsx,tsx,json,css,scss,md}]
+indent_style = space
+indent_size = 2
+max_line_length = 100
+
+# Configuración específica para Markdown
+[*.md]
+trim_trailing_whitespace = false
+
